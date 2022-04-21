@@ -2,9 +2,9 @@
 ![Bem Vindos!](https://github.com/NatyCabral/NatyCabral/blob/main/ezgif.com-gif-maker.gif)
 # Olá 🖖  eu sou a Nathália Cabral.
 ## Aqui você descobrirá um pouco mais sobre mim.
-- 💼 Em Busca de uma oportunidade.
+- 💼 Em busca de uma oportunidade.
 - 🎓 Estudo em curso Tecnico e Superior Desenvolvimento de Sistemas.
-- 📚 Estudos complementares: Python, CSS, HTML, C#, Markdown.
+- 📚 Estudos complementares: Python, CSS, HTML, C#.
 - 💬 Gosto de falar sobre os segredos das linguagens, céu, terra, água e o ar.
 - 😄 Pronome: Ela 👩‍🎓
 - 🏳️‍🌈 Casada.
@@ -16,7 +16,7 @@
  <a href= https://t.me/Naty_Cabral><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
  <a href= mailto:natymell15@gmail.com?><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  <a href= https://acmeco.slack.com/team/U03A2JEEJQ2><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
- <a href= https://likedin.com/in/natycabral1987><img src="https://img.<a href=shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+ <a href= likedin.com/in/natycabral1987/><img src="https://img.<a href=shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
  <a href= https:// ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </div>
 <br>
