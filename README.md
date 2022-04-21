@@ -13,3 +13,4 @@
 - 📫 Contatar-me:
 
 ![Naty GitHub stats](https://github-readme-stats.vercel.app/api?username=natycabral&theme=synthwave&show_icons=true)
+![Naty GitHub stats](https://github.com/NatyCabral/NatyCabral/blob/main/Natydoll.gif)
