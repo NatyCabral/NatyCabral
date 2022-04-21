@@ -22,3 +22,5 @@
 
 ![Naty GitHub stats](https://github-readme-stats.vercel.app/api?username=natycabral&theme=synthwave&show_icons=true)
 ![Naty GitHub stats](https://github.com/NatyCabral/NatyCabral/blob/main/Natydoll.gif)
+
+ ![Snake animation](https://github.com/natycabral/natycabral/blob/output/github-contribution-grid-snake.svg)
