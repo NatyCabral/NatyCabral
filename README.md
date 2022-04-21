@@ -4,7 +4,7 @@
 ## Aqui você descobrirá um pouco mais sobre mim.
 - 💼 Em Busca de uma oportunidade.
 - 🎓 Estudo em curso Tecnico e Superior Desenvolvimento de Sistemas.
-- 📚 Estos complementares: Python, CSS, HTML, C#, Markdown.
+- 📚 Estudos complementares: Python, CSS, HTML, C#, Markdown.
 - 💬 Gosto de falar sobre os segredos das linguagens, céu, terra, água e o ar.
 - 😄 Pronome: Ela 👩‍🎓
 - 🏳️‍🌈 Casada.
