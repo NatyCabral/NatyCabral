@@ -24,3 +24,5 @@
 ![Naty GitHub stats](https://github.com/NatyCabral/NatyCabral/blob/main/Natydoll.gif)
 
  ![Snake animation](https://github.com/NatyCabral/NatyCabral/blob/output/github-contribution-grid-snake.svg)
+ 
+ https://github.com/NatyCabral/NatyCabral/blob/main/.github/workflows/cobrinha.yml
