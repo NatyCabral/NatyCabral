@@ -19,8 +19,9 @@
 ![Naty GitHub stats](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Naty GitHub stats](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <br>
-
+<div>
 ![Naty GitHub stats](https://github-readme-stats.vercel.app/api?username=natycabral&theme=synthwave&show_icons=true)
 ![Naty GitHub stats](https://github.com/NatyCabral/NatyCabral/blob/main/Natydoll.gif)
 
  ![Snake animation](https://github.com/NatyCabral/NatyCabral/blob/output/github-contribution-grid-snake.svg)
+</div>
