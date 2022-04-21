@@ -1,10 +1,4 @@
 ##
-<div>
-  <a href= "http://github.com/natycabral">
-  <img height = "180em" src="http://github-readme.com/
-  </a>
-  
-</div>
 
 # Olá 🖖  eu sou a Nathália Cabral.
 ## Aqui você descobrirá um pouco mais sobre mim.
