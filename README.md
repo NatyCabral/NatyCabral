@@ -16,7 +16,7 @@
  <a href= https://t.me/Naty_Cabral><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
  <a href= mailto:natymell15@gmail.com?><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  <a href= https://acmeco.slack.com/team/U03A2JEEJQ2><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
- <a href= https:// ><img src="https://img.<a href=shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+ <a href= https://likedin.com/in/natycabral1987><img src="https://img.<a href=shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
  <a href= https:// ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </div>
 <br>
