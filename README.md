@@ -12,7 +12,6 @@
 - 🎯 Metas do ano: Contribuir mais para projetos Open Source e aprender o máximo que puder. 
 - 📫 Contatar-me:<br>
 ![Naty GitHub stats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Naty GitHub stats](https://aleen42.github.io/badges/src/line.svg)
 ![Naty GitHub stats](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 ![Naty GitHub stats](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Naty GitHub stats](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
