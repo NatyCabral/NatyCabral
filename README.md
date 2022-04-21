@@ -1,5 +1,5 @@
 ##
-![Bem Vindos!](https://github.com/NatyCabral/NatyCabral/blob/main/banner.JPG)
+![Bem Vindos!](https://github.com/NatyCabral/NatyCabral/blob/main/ezgif.com-gif-maker.gif)
 # Olá 🖖  eu sou a Nathália Cabral.
 ## Aqui você descobrirá um pouco mais sobre mim.
 - 💼 Em Busca de uma oportunidade.
