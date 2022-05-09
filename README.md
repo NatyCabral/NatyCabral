@@ -2,7 +2,7 @@
 ![Bem Vindos!](https://github.com/NatyCabral/NatyCabral/blob/main/ezgif.com-gif-maker.gif)
 # Olá 🖖  eu sou a Nathália Cabral.
 ## Aqui você descobrirá um pouco mais sobre mim.
-- 💼 Em busca de uma oportunidade.
+- 💼 Em busca de aprendizado.
 - 🎓 Estudo em curso Tecnico e Superior Desenvolvimento de Sistemas.
 - 📚 Estudos complementares: Python, CSS, HTML, C#.
 - 💬 Gosto de falar sobre os segredos das linguagens, céu, terra, água e o ar.
