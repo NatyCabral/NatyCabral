@@ -8,7 +8,7 @@
 - 💬 Gosto de falar sobre os segredos das linguagens, céu, terra, água e o ar.
 - 😄 Pronome: Ela 👩‍🎓
 - 🏳️‍🌈 Casada.
-- ⚡ Curiosidade: Sou mãe do 🐶 Jack de 10 anos, 🐱 Lua de 6 anos, 🐱 Amora e 🐱 Maya de 2 meses.
+- ⚡ Curiosidade: Sou mãe do 🐶 Jack de 10 anos, 🐱 Lua de 6 anos.
 - 🎯 Metas do ano: Contribuir mais para projetos Open Source e aprender o máximo que puder. 
 - 📫 Contatar-me:<br>
 <div>
