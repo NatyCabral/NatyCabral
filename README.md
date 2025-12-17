@@ -1,15 +1,21 @@
 ##
 ![Bem Vindos!](https://github.com/NatyCabral/NatyCabral/blob/main/ezgif.com-gif-maker.gif)
-# Olá 🖖  eu sou a Nathália Cabral.
-## Aqui você descobrirá um pouco mais sobre mim.
-- 💼 Em busca de aprendizado.
-- 🎓 Estudo em curso Tecnico e Superior Desenvolvimento de Sistemas.
-- 📚 Estudos complementares: Python, CSS, HTML, C#.
-- 💬 Gosto de falar sobre os segredos das linguagens, céu, terra, água e o ar.
-- 😄 Pronome: Ela 👩‍🎓
-- 🏳️‍🌈 Casada.
-- ⚡ Curiosidade: Sou mãe do 🐶 Jack de 10 anos, 🐱 Lua de 6 anos.
-- 🎯 Metas do ano: Contribuir mais para projetos Open Source e aprender o máximo que puder. 
+# Olá 🖖 Eu sou a Nathália Cabral
+
+### 👩‍💻 Quality Assurance Analyst | Software Quality Enthusiast
+
+## 🔎 Sobre mim
+Sou Analista de QA com foco em **testes manuais**, qualidade de software e experiência do usuário.  
+Atualmente em evolução constante nos estudos de **automação de testes**, APIs e boas práticas de QA.
+
+- 💼 Atuação em **Qualidade de Software (QA)**
+- 🎓 Formação: **Análise e Desenvolvimento de Sistemas**
+- 📚 Estudos contínuos em: **Testes Manuais, QA Fundamentals, Automação, APIs**
+- ⚡ Curiosidade: Faço parte do projeto social Família canguru🦘
+- 🧠 Mentalidade: aprendizado contínuo e melhoria de processos
+- 🎯 Objetivo: evoluir como QA e contribuir com projetos de impacto real
+- 🚀 Meta: Transformar requisitos em **testes bem definidos**, bugs em melhorias e sistemas em produtos mais confiáveis 
+
 - 📫 Contatar-me:<br>
 <div>
  <a href= https://wa.me/5511997418015><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
@@ -17,7 +23,7 @@
  <a href= mailto:natymell15@gmail.com?><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  <a href= https://acmeco.slack.com/team/U03A2JEEJQ2><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
  <a href= https://discord.gg/NatháliaCabral#6371><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
- <a href= https://www.linkedin.com/in/natycabral1987><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ <a href= https://www.linkedin.com/in/naty-cabral/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </div>
 <br>
 
